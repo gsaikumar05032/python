@@ -1,0 +1,13 @@
+a=45
+b=89
+c=90
+d=a+b+c
+print(d)
+d=a-b-c
+print(d)
+d=a*b*c
+print(d)
+d=a/b/c
+print(d)
+d=a//b//c
+print(d)
