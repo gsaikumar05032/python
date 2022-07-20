@@ -1,1 +1,6 @@
 git commands
+1.git clone https://github.com/gsaikumar05032/python.git
+2.git status
+3.git add file name
+4.git commit -m "git commands"
+5.git push
