@@ -1,0 +1,6 @@
+print('enter the quadrartic equation')
+a=int(input())
+b=int(input())
+c=int(input())
+d=(b**2)-(4*a*c)
+print('print',d)
